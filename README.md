@@ -1,12 +1,11 @@
 # NASA Mission Control Project
 
-<<<<<<< HEAD
 The completed version of our NASA project from https://github.com/Israel-199
 
 Keep in mind that we recommend you code along with us and use this only if you ever get stuck or you don't like to code along.
 
 =======
->>>>>>> origin/main
+
 ## Getting Started
 
 1. Ensure you have Node.js installed.
@@ -19,7 +18,7 @@ Keep in mind that we recommend you code along with us and use this only if you e
 1. In the terminal, run: `npm run deploy`
 2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch!
 
-<<<<<<< HEAD
+
 ## Docker
 
 1. Ensure you have the latest version of Docker installed
@@ -39,4 +38,4 @@ To run any automated tests, run `npm test`. This will:
 To run any automated tests, run `npm test`. This will: 
 * Run all the client-side tests: `npm test --prefix client`
 * Run all the server-side tests: `npm test --prefix server` 
->>>>>>> origin/main
+
